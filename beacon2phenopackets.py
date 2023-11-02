@@ -1,4 +1,4 @@
-# Pseudocode for transforming MongoDB query results into Phenopackets format
+#  Transforming MongoDB query results into Phenopackets format
 
 # Run the Beacon query
 query_results = run_beacon_query(query_parameters)
